@@ -1,4 +1,4 @@
-Circuit: * C:\Users\Caliphax\Documents\ltspice\Transmit Switch Ensemble.asc
+Circuit: * C:\users\xenir\My Documents\ltspice\Transmit Switch Ensemble.asc
 
 WARNING: Node N008 is floating.
 
@@ -8,20 +8,20 @@ Instance "m:m3:2": Length shorter than recommended for a level 1 MOSFET.
 Instance "m:m2:2": Length shorter than recommended for a level 1 MOSFET.
 Direct Newton iteration for .op point succeeded.
 
-Date: Sat Sep 26 11:46:44 2020
-Total elapsed time: 8.414 seconds.
+Date: Sat Sep 26 11:54:20 2020
+Total elapsed time: 5.161 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 721380
-traniter = 721359
-tranpoints = 290437
-accept = 196376
-rejected = 94061
+totiter = 724041
+traniter = 724020
+tranpoints = 291436
+accept = 196961
+rejected = 94475
 matrix size = 61
 fillins = 42
 solver = Normal
-Matrix Compiler1: 7.07 KB object code size  1.9/1.2/[0.7]
-Matrix Compiler2: 6.21 KB object code size  0.8/1.1/[0.5]
+Matrix Compiler1: 7.07 KB object code size  1.9/1.7/[0.5]
+Matrix Compiler2: off  [0.8]/1.1/1.1
 
