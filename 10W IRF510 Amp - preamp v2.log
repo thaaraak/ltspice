@@ -1,0 +1,23 @@
+Circuit: * C:\Users\Caliphax\Documents\ltspice\10W IRF510 Amp - preamp v2.asc
+
+Limiting rise time of source v3 to 1e-09
+Instance "m:m2:2": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Jul 20 17:29:32 2021
+Total elapsed time: 2.557 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 253823
+traniter = 253807
+tranpoints = 71259
+accept = 47388
+rejected = 23871
+matrix size = 60
+fillins = 18
+solver = Normal
+Matrix Compiler1: 4.26 KB object code size  1.2/0.8/[0.5]
+Matrix Compiler2: 4.92 KB object code size  0.5/0.7/[0.3]
+

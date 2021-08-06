@@ -1,0 +1,23 @@
+Circuit: * C:\Users\Caliphax\Documents\ltspice\Bias Reference.asc
+
+Instance "m:m1:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:m2:2": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Nov  2 15:35:14 2020
+Total elapsed time: 0.147 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2108
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 26
+fillins = 6
+solver = Normal
+Matrix Compiler1: 3.53 KB object code size  0.9/0.4/[0.2]
+Matrix Compiler2: off  [0.2]/0.3/0.2
+

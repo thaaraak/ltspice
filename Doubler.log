@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Caliphax\Documents\ltspice\Doubler.asc
+
+.OP point found by inspection.
+
+Date: Mon Oct 19 13:30:49 2020
+Total elapsed time: 0.641 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 121228
+traniter = 121228
+tranpoints = 34920
+accept = 23848
+rejected = 11072
+matrix size = 22
+fillins = 4
+solver = Normal
+Matrix Compiler1: 1.18 KB object code size  0.6/0.2/[0.1]
+Matrix Compiler2: 1.56 KB object code size  0.1/0.2/[0.1]
+
