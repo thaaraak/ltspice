@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Caliphax\Documents\ltspice\Combiner.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Aug 29 17:56:19 2021
+Total elapsed time: 0.070 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5113
+traniter = 5110
+tranpoints = 2556
+accept = 1714
+rejected = 842
+matrix size = 30
+fillins = 6
+solver = Normal
+Matrix Compiler1: 1.80 KB object code size  0.6/0.4/[0.2]
+Matrix Compiler2: 2.25 KB object code size  0.3/0.5/[0.2]
+
