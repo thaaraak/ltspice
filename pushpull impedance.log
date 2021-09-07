@@ -1,8 +1,8 @@
 Circuit: * C:\Users\Caliphax\Documents\ltspice\pushpull impedance.asc
 
 
-Date: Wed Jul 28 14:38:08 2021
-Total elapsed time: 0.024 seconds.
+Date: Tue Sep  7 15:06:46 2021
+Total elapsed time: 0.033 seconds.
 
 tnom = 27
 temp = 27
@@ -12,7 +12,7 @@ traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 21
+matrix size = 29
 fillins = 0
 solver = Normal
 
