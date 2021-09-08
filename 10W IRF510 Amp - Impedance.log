@@ -5,8 +5,8 @@ WARNING: Node N007 is floating.
 WARNING: Less than two connections to node N007.  This node is used by C16.
 Direct Newton iteration for .op point succeeded.
 
-Date: Mon Aug  9 13:50:41 2021
-Total elapsed time: 0.334 seconds.
+Date: Wed Sep  8 13:25:20 2021
+Total elapsed time: 0.989 seconds.
 
 tnom = 27
 temp = 27
