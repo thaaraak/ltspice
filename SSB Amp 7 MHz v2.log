@@ -4,21 +4,21 @@ Limiting rise time of source v3 to 1e-09
 Instance "m:m2:2": Length shorter than recommended for a level 1 MOSFET.
 Direct Newton iteration for .op point succeeded.
 
-Date: Tue Aug 10 14:11:06 2021
-Total elapsed time: 8.514 seconds.
+Date: Fri Sep 10 14:50:49 2021
+Total elapsed time: 9.271 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 634866
-traniter = 634850
-tranpoints = 155193
-accept = 107513
-rejected = 47680
-matrix size = 103
-fillins = 36
+totiter = 620536
+traniter = 620520
+tranpoints = 151701
+accept = 106825
+rejected = 44876
+matrix size = 104
+fillins = 38
 solver = Normal
-Thread vector: 9.7/7.2[2] 4.9/4.0[2] 1.1/1.1[1] 0.5/1.0[1]  2592/500
-Matrix Compiler1: 7.44 KB object code size  2.2/1.1/[0.7]
-Matrix Compiler2: 8.74 KB object code size  0.8/1.2/[0.8]
+Thread vector: 10.6/9.4[2] 4.8/3.9[2] 1.1/1.2[1] 0.5/0.7[1]  2592/500
+Matrix Compiler1: 7.61 KB object code size  2.3/1.4/[0.8]
+Matrix Compiler2: 8.85 KB object code size  1.2/1.7/[0.7]
 
