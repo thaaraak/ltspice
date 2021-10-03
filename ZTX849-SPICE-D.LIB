@@ -1,0 +1,20 @@
+********************** ON ZTX849 SPICE PARAMETER *************************
+*.LIB ZTX849                                                                 * DATE : 2016/04/06                                                           
+* Temp = 27 deg      
+                                                         *                                                                             
+.model FZT849 NPN(IS=5.8591E-13 NF=0.9919 BF=230 IKF=18 VAF=90
++ ISE=2.0067E-13 NE=1.4 NR=0.9908 BR=180 IKR=6.8
++ VAR=20 ISC=5.3E-13 NC=1.46 RB=0.023 RE=0.0223
++ RC=0.015 CJC=200E-12 MJC=0.3006 VJC=0.3532
++ CJE=1.21E-9 TF=1.07E-9 TR=9.3E-9 Vceo=30 Icrating=7 mfg=Zetex) ; (C) 1993 ZETEX PLC, Last revision 14/3/97
++ ; The copyright in this model and the design embodied belong to Zetex PLC ("Zetex"). It is supplied free of charge by Zetex for
++ ; the purpose of research and design and may be used or copied intact (including this notice) for that purpose only. All other
++ ; rights are reserved. The model is believed accurate but no condition or warranty as to its merchantability or fitness for
++ ; purpose is given and no liability in respect of any use is accepted by Zetex PLC, its distributors or agents.
++ ; Zetex PLC, Fields New Road, Chadderton, Oldham OL9 8NP
+
+.model ZTX849 ako:FZT849 NPN(Vceo=30 Icrating=7 mfg=Zetex)                      
+*                                                                             
+*.ENDL ZTX849                                                                *  Information herein is for example only;                                    
+*  it is not guaranteed for volume production.                                
+* ON Semiconductor                       
