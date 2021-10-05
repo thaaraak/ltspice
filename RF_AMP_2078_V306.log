@@ -1,27 +1,25 @@
-Circuit: * C:\Users\Caliphax\Documents\ltspice\RF_AMP_2078_V306.asc
+Circuit: * Z:\home\xenir\ltspice\RF_AMP_2078_V306.asc
 
 Warning: Multiple definitions of model "ztx849" Type: BJT
 Warning: Multiple definitions of model "fzt849" Type: BJT
-Direct Newton iteration for .op point succeeded.
-Changing Tseed to 2.14844e-13
-Changing Tseed to 2.14844e-15
-Heightened Def Con from 2.14844e-15 to 6e-09
+WARNING: Node NC_01 is floating.
 
-Date: Sun Oct  3 15:52:57 2021
-Total elapsed time: 0.214 seconds.
+WARNING: Less than two connections to node NC_01.  This node is used by C22.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Oct 04 18:15:14 2021
+Total elapsed time: 0.070 seconds.
 
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 6469
-traniter = 6462
-tranpoints = 1611
-accept = 1303
-rejected = 307
-matrix size = 137
-fillins = 109
+method = trap
+totiter = 7
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 138
+fillins = 102
 solver = Normal
-Thread vector: 8.5/5.5[3] 4.7/3.8[3] 0.8/0.9[1] 0.8/1.5[1]  2592/500
-Matrix Compiler1: 13.65 KB object code size  4.1/2.3/[1.2]
-Matrix Compiler2: 12.73 KB object code size  1.8/2.1/[1.0]
-
+Matrix Compiler1:     687 opcodes
+Matrix Compiler2: 12.35 KB object code size
