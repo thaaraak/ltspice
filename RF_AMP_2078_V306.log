@@ -3,25 +3,23 @@ Circuit: * C:\Users\Caliphax\Documents\ltspice\RF_AMP_2078_V306.asc
 Warning: Multiple definitions of model "ztx849" Type: BJT
 Warning: Multiple definitions of model "fzt849" Type: BJT
 Direct Newton iteration for .op point succeeded.
-Changing Tseed to 2.14844e-13
-Changing Tseed to 2.14844e-15
-Heightened Def Con from 2.14844e-15 to 6e-09
+Heightened Def Con from 2.14844e-14 to 6.00002e-09
 
-Date: Sun Oct  3 15:52:57 2021
-Total elapsed time: 0.214 seconds.
+Date: Tue Oct  5 12:01:08 2021
+Total elapsed time: 0.196 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 6469
-traniter = 6462
-tranpoints = 1611
-accept = 1303
-rejected = 307
+totiter = 4879
+traniter = 4872
+tranpoints = 1345
+accept = 1176
+rejected = 170
 matrix size = 137
 fillins = 109
 solver = Normal
-Thread vector: 8.5/5.5[3] 4.7/3.8[3] 0.8/0.9[1] 0.8/1.5[1]  2592/500
-Matrix Compiler1: 13.65 KB object code size  4.1/2.3/[1.2]
-Matrix Compiler2: 12.73 KB object code size  1.8/2.1/[1.0]
+Thread vector: 10.6/7.2[3] 7.3/5.2[3] 1.1/1.8[1] 0.7/1.6[1]  2592/500
+Matrix Compiler1: 13.65 KB object code size  4.5/3.2/[1.1]
+Matrix Compiler2: 12.73 KB object code size  2.1/2.9/[0.9]
 
