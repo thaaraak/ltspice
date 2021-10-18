@@ -1,0 +1,13 @@
+* C:\Users\Caliphax\Documents\ltspice\filter.asc
+V1 N001 0 AC 1 0 Rser=50.00
+C1 N001 0 220.0p
+L2 N001 N002 680.0n
+C3 N002 0 390.0p
+L4 N002 N003 680.0n
+C5 N003 0 220.0p
+RL N003 0 50
+.ac dec 1001 6.000Meg 93.75Meg
+.net I(RL) V1
+* 5th Order Chebyshev Lowpass\nShunt First\nCutoff Frequency = 15 MHz\nPassband Ripple = .1 dB\n\nrf-tools.com | Oct 18 2021 13:42
+.backanno
+.end
