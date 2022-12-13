@@ -1,8 +1,12 @@
 Circuit: * Z:\home\xenir\ltspice\pushpull impedance.asc
 
+WARNING: Node NC_01 is floating.
 
-Date: Thu Aug 25 17:03:31 2022
-Total elapsed time: 0.021 seconds.
+WARNING: Less than two connections to node N021.  This node is used by L11.
+WARNING: Less than two connections to node NC_01.  This node is used by C5.
+
+Date: Thu Dec 08 20:15:36 2022
+Total elapsed time: 0.161 seconds.
 
 tnom = 27
 temp = 27
@@ -12,7 +16,7 @@ traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 45
-fillins = 6
+matrix size = 47
+fillins = 7
 solver = Normal
 
