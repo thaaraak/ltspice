@@ -1,23 +1,22 @@
-Circuit: * C:\Users\Caliphax\Documents\ltspice\bs170 push pull.asc
+Circuit: * Z:\home\xenir\ltspice\bs170 push pull.asc
 
 Instance "m:m2:2": Length shorter than recommended for a level 1 MOSFET.
 Instance "m:m1:2": Length shorter than recommended for a level 1 MOSFET.
 Direct Newton iteration for .op point succeeded.
 
-Date: Tue Jul 13 08:08:58 2021
-Total elapsed time: 0.954 seconds.
+Date: Wed Dec 14 21:47:33 2022
+Total elapsed time: 0.176 seconds.
 
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 99010
-traniter = 99000
-tranpoints = 29388
-accept = 21686
-rejected = 7702
+method = trap
+totiter = 10
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
 matrix size = 59
-fillins = 68
+fillins = 66
 solver = Normal
-Matrix Compiler1: 8.76 KB object code size  2.1/0.9/[0.6]
-Matrix Compiler2: 6.56 KB object code size  0.6/0.8/[0.5]
-
+Matrix Compiler1:     460 opcodes
+Matrix Compiler2: 6.35 KB object code size
