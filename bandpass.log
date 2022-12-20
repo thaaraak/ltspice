@@ -1,8 +1,8 @@
 Circuit: * Z:\home\xenir\ltspice\bandpass.asc
 
 
-Date: Tue Dec 20 08:40:32 2022
-Total elapsed time: 0.127 seconds.
+Date: Tue Dec 20 09:39:44 2022
+Total elapsed time: 0.195 seconds.
 
 tnom = 27
 temp = 27
@@ -12,7 +12,7 @@ traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 106
+matrix size = 122
 fillins = 13
 solver = Normal
 
