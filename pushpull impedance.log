@@ -2,14 +2,14 @@ Circuit: * Z:\home\xenir\ltspice\pushpull impedance.asc
 
 WARNING: Node NC_01 is floating.
 
-WARNING: Less than two connections to node N028.  This node is used by L11.
+WARNING: Less than two connections to node N032.  This node is used by L11.
 WARNING: Less than two connections to node NC_01.  This node is used by C5.
 Instance "m:m2:2": Length shorter than recommended for a level 1 MOSFET.
 Instance "m:m1:2": Length shorter than recommended for a level 1 MOSFET.
 Direct Newton iteration for .op point succeeded.
 
-Date: Wed Dec 14 21:48:30 2022
-Total elapsed time: 0.138 seconds.
+Date: Sat Dec 24 19:17:48 2022
+Total elapsed time: 0.122 seconds.
 
 tnom = 27
 temp = 27
@@ -19,8 +19,8 @@ traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 60
-fillins = 37
+matrix size = 67
+fillins = 41
 solver = Normal
-Matrix Compiler1:     371 opcodes
-Matrix Compiler2: 5.62 KB object code size
+Matrix Compiler1:     405 opcodes
+Matrix Compiler2: 6.16 KB object code size
