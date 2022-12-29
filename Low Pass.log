@@ -1,13 +1,8 @@
-Circuit: * Z:\home\xenir\ltspice\Low Pass.asc
+Circuit: * Z:\home\xenir\git\ltspice\Low Pass.asc
 
 
-<<<<<<< HEAD
-Date: Sun Dec 25 09:40:45 2022
-Total elapsed time: 0.111 seconds.
-=======
-Date: Sun Dec 25 09:21:36 2022
-Total elapsed time: 0.097 seconds.
->>>>>>> 9a3eecf041d039b8713d232bd9bbd9ee4395014f
+Date: Tue Dec 27 12:13:34 2022
+Total elapsed time: 0.094 seconds.
 
 tnom = 27
 temp = 27
@@ -17,7 +12,7 @@ traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 27
-fillins = 5
+matrix size = 33
+fillins = 6
 solver = Normal
 
