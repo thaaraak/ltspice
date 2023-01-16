@@ -1,0 +1,15 @@
+* Z:\home\xenir\ltspice\Tayloe Switch.asc
+L10 0 N004 20µH
+L11 0 N007 10µH
+L12 N003 0 10µH
+V4 N001 0 AC 1 Rser=.1
+C4 N002 N001 100n
+R9 N004 0 50
+V5 N005 0 AC 1 180 Rser=.1
+C5 N006 N005 100n
+R10 N003 N002 50
+R21 N007 N006 50
+.ac dec 400 1Meg 30Meg
+K22 L10 L11 L12 1
+.backanno
+.end
