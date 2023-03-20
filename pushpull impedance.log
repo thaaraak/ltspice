@@ -1,18 +1,24 @@
-Circuit: * C:\Users\Caliphax\Documents\ltspice\pushpull impedance.asc
+Circuit: * Z:\home\xenir\ltspice\pushpull impedance.asc
 
+WARNING: Less than two connections to node NC_01.  This node is used by V10.
+WARNING: Less than two connections to node NC_02.  This node is used by V12.
+Instance "m:m2:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:m1:2": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
 
-Date: Tue Sep  7 15:06:46 2021
-Total elapsed time: 0.033 seconds.
+Date: Mon Jan 16 14:30:41 2023
+Total elapsed time: 0.101 seconds.
 
 tnom = 27
 temp = 27
 method = trap
-totiter = 0
+totiter = 11
 traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 29
-fillins = 0
+matrix size = 79
+fillins = 49
 solver = Normal
-
+Matrix Compiler1:     448 opcodes
+Matrix Compiler2: 7.12 KB object code size
