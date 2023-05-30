@@ -1,8 +1,9 @@
-Circuit: * C:\Users\Caliphax\Documents\ltspice\Low Pass.asc
+Circuit: * Z:\home\xenir\git\ltspice\Low Pass.asc
 
+.OP point found by inspection.
 
-Date: Mon Mar 20 11:59:24 2023
-Total elapsed time: 0.029 seconds.
+Date: Sun May 28 21:26:31 2023
+Total elapsed time: 0.040 seconds.
 
 tnom = 27
 temp = 27
@@ -15,4 +16,6 @@ rejected = 0
 matrix size = 20
 fillins = 4
 solver = Normal
-
+Avg thread counts: 12.0/0.0/0.0/2.0
+Matrix Compiler1:      51 opcodes
+Matrix Compiler2:     112 opcodes
